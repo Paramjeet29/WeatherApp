@@ -1,0 +1,7 @@
+.weather-display {
+    max-width: 300px;
+  }
+  
+  .weather-display p {
+    margin-bottom: 0.3rem;
+  }
